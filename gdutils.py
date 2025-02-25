@@ -268,7 +268,7 @@ def create_image():
 
 def setup_tray_icon():
     menu = pystray.Menu(pystray.MenuItem("Exit", exit_program))
-    icon = pystray.Icon("AutoSellDismantle", create_image(), "AutoSell & Dismantle", menu)
+    icon = pystray.Icon("GDUtils", create_image(), "AutoSell & Dismantle", menu)
     icon.run()
 
 def main():

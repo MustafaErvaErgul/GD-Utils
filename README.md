@@ -5,6 +5,12 @@ This is a utility tool designed for *Grim Dawn* that automates selling and disma
 > **Note:**  
 > The default pixel values in the configuration are designed for a 1920x1080 screen with the default UI scale in Grim Dawn. If your screen resolution or UI scale differs, you may need to adjust the values in the configuration file.
 
+# Installation
+
+Install the latest release, may need to run the .exe as administrator for it to work.
+
+[Download the latest release](https://github.com/MustafaErvaErgul/GD-Utils/releases)
+
 # Features
 
 - **Automated Selling:** Sell items from both your main and secondary inventory grids with a single key press.
@@ -65,10 +71,10 @@ Use PyInstaller to compile the program into a standalone .exe. For example:
 
 With console
 ```
-python -m PyInstaller --onefile --uac-admin gdautosell.py
+python -m PyInstaller --onefile --uac-admin gdutils.py
 ```
 
 Without console
 ```
-python -m PyInstaller --onefile --noconsole --uac-admin gdautosell.py
+python -m PyInstaller --onefile --noconsole --uac-admin gdutils.py
 ```
