@@ -5,8 +5,6 @@ This is a utility tool designed for *Grim Dawn* that automates selling and disma
 > **Note:**  
 > The default pixel values in the configuration are designed for a 1920x1080 screen with the default UI scale in Grim Dawn. If your screen resolution or UI scale differs, you may need to adjust the values in the configuration file.
 
-![Demo](assets/demo.gif)
-
 # Installation
 
 Install the latest release, may need to run the .exe as administrator for it to work. Run the .exe and you'll be able to use the shortcuts while Grim Dawn is open.
@@ -30,6 +28,10 @@ Check the usages below to see what keybinds do.
 - **Configurable Shortcuts & Settings:** All UI coordinates, sleep delays, grid settings, and keyboard shortcuts are read from an external `config.ini` file.
 - **Active Window Check:** Macros are only executed when Grim Dawn is the active window.
 - **System Tray Icon:** The executable creates a tray icon with an exit option, so you can run it without a console window.
+
+# Demo
+
+![Demo](assets/demo.gif)
 
 # Configuration
 
