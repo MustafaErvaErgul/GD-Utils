@@ -15,6 +15,8 @@ Check the usages below to see what keybinds do.
 
 # Usage
 
+All the scripts in the program iterate over each inventory cell and simulate right click if its a sell operation and simulate multiple clicks if its a dismantle operation. 
+
 - Press F2 while an NPC window is open to sell everything on your main & active secondary bag.
 - Press F3 while an NPC window is open to sell everything on your active secodnary bag.
 - Press F4 while Inventor window is open to dismantle everything on your main & active secondary bag.
