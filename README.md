@@ -5,6 +5,8 @@ This is a utility tool designed for *Grim Dawn* that automates selling and disma
 > **Note:**  
 > The default pixel values in the configuration are designed for a 1920x1080 screen with the default UI scale in Grim Dawn. If your screen resolution or UI scale differs, you may need to adjust the values in the configuration file.
 
+![Demo](assets/demo.gif)
+
 # Installation
 
 Install the latest release, may need to run the .exe as administrator for it to work. Run the .exe and you'll be able to use the shortcuts while Grim Dawn is open.
