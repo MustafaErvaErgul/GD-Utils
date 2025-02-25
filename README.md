@@ -7,9 +7,19 @@ This is a utility tool designed for *Grim Dawn* that automates selling and disma
 
 # Installation
 
-Install the latest release, may need to run the .exe as administrator for it to work.
+Install the latest release, may need to run the .exe as administrator for it to work. Run the .exe and you'll be able to use the shortcuts while Grim Dawn is open.
 
 [Download the latest release](https://github.com/MustafaErvaErgul/GD-Utils/releases)
+
+Check the usages below to see what keybinds do.
+
+# Usage
+
+- Press F2 while an NPC window is open to sell everything on your main & active secondary bag.
+- Press F3 while an NPC window is open to sell everything on your active secodnary bag.
+- Press F4 while Inventor window is open to dismantle everything on your main & active secondary bag.
+- Press F5 while Inventor window is open to dismantle everything on your active secondary bag.
+- Press F10 while focused on Grim Dawn to instantly terminate program (Can also be closed via Tray icon).
 
 # Features
 
@@ -21,7 +31,7 @@ Install the latest release, may need to run the .exe as administrator for it to 
 
 # Configuration
 
-Create a file named **config.ini** in the same directory as the executable. Below is an example configuration:
+The executable reads values from the "config.ini" file that will be in the same directory as the "gdutils.exe", you can adjust the config file for your own setup. Below is an example of what the config file looks like:
 
 ```ini
 [General]
